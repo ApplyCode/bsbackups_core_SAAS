@@ -1,0 +1,5 @@
+export const ADD_NEW_DEVICE = "ADD_NEW_DEVICE"
+export const GET_DEVICES = "GET_DEVICES"
+export const DELETE_DEVICE = "DELETE_DEVICE"
+export const UPDATE_DEVICE = "UPDATE_DEVICE"
+export const GET_DEVICE = "GET_DEVICE"
