@@ -13,7 +13,7 @@ import {
 } from "reactstrap"
 
 const Breadcrumb = props => {
-  const [setting_Menu, setsetting_Menu] = useState(false)
+
 
   return (
     <Row className="align-items-center">
