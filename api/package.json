@@ -37,7 +37,7 @@
     "uuid": "^9.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
+    "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^8.3.4"
   },
   "autoload": {
