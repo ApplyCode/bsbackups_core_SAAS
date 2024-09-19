@@ -22,7 +22,11 @@ const Breadcrumb = props => {
           <h4 className="font-size-18">{props.breadcrumbItem}</h4>
           <ol className="breadcrumb mb-0">
             {props.maintitle ? (
-
+              <>
+                <BreadcrumbItem>
+                  <Link to="/#">{props.maintitle}</Link>
+                </BreadcrumbItem>
+              </>
             ) : (
               ""
             )}
