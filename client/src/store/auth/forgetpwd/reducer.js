@@ -1,4 +1,8 @@
-
+import {
+  FORGET_PASSWORD,
+  FORGET_PASSWORD_SUCCESS,
+  FORGET_PASSWORD_ERROR,
+} from "./actionTypes"
 
 const initialState = {
   forgetSuccessMsg: null,
