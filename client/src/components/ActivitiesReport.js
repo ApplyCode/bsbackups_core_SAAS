@@ -22,7 +22,13 @@ const ActivitiesReport = props => {
           <div className="mt-4">
             <table className="table mb-0">
               <tbody>
-
+                <tr>
+                  <td>
+                    <span className="badge bg-success">{props.t("Success")}</span>
+                  </td>
+                  <td>{props.t("Backup performed")}</td>
+                  <td className="text-end">{successPercentage}%</td>
+                </tr>
                 <tr>
                   <td>
                     <span className="badge bg-info">{props.t("Activity Report")}</span>
