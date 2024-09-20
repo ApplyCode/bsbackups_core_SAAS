@@ -113,7 +113,7 @@
     youch "^2.0.10"
     youch-terminal "^1.0.0"
 
-"@adonisjs/lucid@^6.1.3":
+"@adonisjs/lucid@^6.1.3", "@adonisjs/lucid@^6.3.0":
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/@adonisjs/lucid/-/lucid-6.3.0.tgz#e9d9a05733fc19624f355a9bba11caf5b4ba57aa"
   integrity sha512-4LNUAh/ruU2I0xIwwugrqbFPDB5xGZYPPWzODt3QAQhDhws76T/+HDuZmCdngzE0QC1Vi9Nd1Uqejgliq1N0Dg==
