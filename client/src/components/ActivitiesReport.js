@@ -1,7 +1,4 @@
-import React from "react"
-import { Card, CardBody, CardTitle, Badge, Button } from "reactstrap"
-import { Link } from "react-router-dom"
-import PropTypes from 'prop-types';
+
 
 //CHART
 import Salesdonut from "../pages/AllCharts/apex/salesdonut"
