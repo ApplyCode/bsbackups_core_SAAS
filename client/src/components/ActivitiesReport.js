@@ -29,7 +29,13 @@ const ActivitiesReport = props => {
                   <td>{props.t("Backup performed")}</td>
                   <td className="text-end">{successPercentage}%</td>
                 </tr>
-
+                <tr>
+                  <td>
+                    <span className="badge bg-info">{props.t("Activity Report")}</span>
+                  </td>
+                  <td>{props.t("Activity Report")}</td>
+                  <td className="text-end">{runningPercentage}%</td>
+                </tr>
                 <tr>
                   <td>
                     <span className="badge bg-danger">{props.t("Activity Report")}</span>
