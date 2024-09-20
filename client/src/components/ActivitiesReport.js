@@ -3,8 +3,7 @@ import { Card, CardBody, CardTitle, Badge, Button } from "reactstrap"
 import { Link } from "react-router-dom"
 import PropTypes from 'prop-types';
 
-//CHART
-import Salesdonut from "../pages/AllCharts/apex/salesdonut"
+
 //i18n
 import { withTranslation } from "react-i18next";
 
