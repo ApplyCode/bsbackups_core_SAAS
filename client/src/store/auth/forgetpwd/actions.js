@@ -18,4 +18,9 @@ export const userForgetPasswordSuccess = message => {
   }
 }
 
-
+export const userForgetPasswordError = message => {
+  return {
+    type: FORGET_PASSWORD_ERROR,
+    payload: message,
+  }
+}
