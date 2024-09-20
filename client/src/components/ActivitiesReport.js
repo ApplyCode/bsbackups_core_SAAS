@@ -16,7 +16,9 @@ const ActivitiesReport = props => {
       <Card>
         <CardBody>
           <h4 className="card-title mb-4">{props.t("Activity Report")}</h4>
-
+          <div id="ct-donut" className="ct-chart wid pt-4">
+            <Salesdonut data={props.data} />
+          </div>
           <div className="mt-4">
             <table className="table mb-0">
               <tbody>
