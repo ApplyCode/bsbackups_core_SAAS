@@ -28,7 +28,7 @@
     "@radmen/adonis-lucid-soft-deletes": "0.2.0",
     "backblaze-b2": "^1.7.0",
     "crypto-js": "^4.1.1",
-    "husky": "^4.2.5",
+    "husky": "^4.3.8",
     "moment": "^2.29.4",
     "mysql": "^2.18.1",
     "node-cron": "^3.0.2",
