@@ -23,7 +23,7 @@
     "@adonisjs/fold": "^4.0.9",
     "@adonisjs/framework": "^5.0.9",
     "@adonisjs/ignitor": "^2.0.8",
-    "@adonisjs/lucid": "^6.3.0",
+    "@adonisjs/lucid": "^21.8.2",
     "@adonisjs/mail": "10.4.0",
     "@radmen/adonis-lucid-soft-deletes": "0.2.0",
     "backblaze-b2": "^1.7.1",
